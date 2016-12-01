@@ -1,0 +1,37 @@
+body,html{
+    height:100%;
+    margin: 0;
+}
+body{
+    background-image:url("../images/2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.login
+{background-color: rgba(255,255,255,0.7);
+    margin:auto;
+    height: 300px;
+    width:500px;
+    position:relative;
+    top:150px;
+    text-align: center;
+    border:#111111;
+    border-radius: 10px;
+}
+h1{
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-bottom: dimgrey 2px solid;
+}
+input{
+    height: 30px;
+    width: 300px;
+    margin:20px;
+    font-size: 14px;
+    border-radius: 6px;
+}
+button{
+    height: 35px;
+    width: 80px;
+}
